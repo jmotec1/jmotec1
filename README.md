@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🇧🇷 🌳
 Today I study web development and I have a tendency towards PHP language, but to date I don't have a definite idea directed to something I really have more vocation for.
 
-in the images above I bring a different way of talking about what I like and what I become an admirer.
+In the images above I bring a different way of talking about what I like and what I become an admirer.
 
 
 <div align="center">
