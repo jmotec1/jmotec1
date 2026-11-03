@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🇧🇷 🌳
 I'm tecnology student in school of level higher "Anhanguera", and certified in Framework Laravel (PHP), by the profissional training school "Upside Trainings".
 
-In the images above I bring a different way of talking about what I like and what I become an admirer.
+Skillset
 
 
 <div align="center">
