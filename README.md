@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🇧🇷 🌳
-I'm student tecnology in school of level higher "Anhanguera", and certified in Famework Laravel (PHP), by the professional training school "Upside Trainings".
+I'm stud tecnology in school of level higher "Anhanguera", and certified in Famework Laravel (PHP), by the professional training school "Upside Trainings".
 
 In the images above I bring a different way of talking about what I like and what I become an admirer.
 
