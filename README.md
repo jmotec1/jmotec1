@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🇧🇷 🌳
-Today I study Information Technology and I have a tendency towards PHP language, but to until now I don't have a defined which directed to language I really have more vocation for.
+I'm study Technology student and I have a tendency towards PHP language, but to until now I don't have a defined which directed to language I really have more vocation for.
 
 In the images above I bring a different way of talking about what I like and what I become an admirer.
 
